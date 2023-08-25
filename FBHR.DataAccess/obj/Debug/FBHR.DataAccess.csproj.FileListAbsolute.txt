@@ -1,0 +1,9 @@
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\bin\Debug\FBHR.DataAccess.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\bin\Debug\FBHR.DataAccess.pdb
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\bin\Debug\FBHR.Models.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\bin\Debug\FBHR.Models.pdb
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\obj\Debug\FBHR.DataAccess.csproj.AssemblyReference.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\obj\Debug\FBHR.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\obj\Debug\FBHR.DataAccess.csproj.CopyComplete
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\obj\Debug\FBHR.DataAccess.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.DataAccess\obj\Debug\FBHR.DataAccess.pdb

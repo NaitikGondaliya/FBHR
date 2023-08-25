@@ -1,0 +1,6 @@
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.Models\bin\Debug\FBHR.Models.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.Models\bin\Debug\FBHR.Models.pdb
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.Models\obj\Debug\FBHR.Models.csproj.AssemblyReference.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.Models\obj\Debug\FBHR.Models.csproj.CoreCompileInputs.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.Models\obj\Debug\FBHR.Models.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FBHR.Models\obj\Debug\FBHR.Models.pdb

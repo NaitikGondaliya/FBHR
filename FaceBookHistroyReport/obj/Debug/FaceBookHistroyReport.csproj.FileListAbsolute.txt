@@ -1,0 +1,13 @@
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FaceBookHistroyReport.exe.config
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FaceBookHistroyReport.exe
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FaceBookHistroyReport.pdb
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FBHR.DataAccess.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FBHR.Models.dll
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FBHR.DataAccess.pdb
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\bin\Debug\FBHR.Models.pdb
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\obj\Debug\FaceBookHistroyReport.csproj.AssemblyReference.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\obj\Debug\FaceBookHistroyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\obj\Debug\FaceBookHistroyReport.csproj.CoreCompileInputs.cache
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\obj\Debug\FaceBookHistroyReport.csproj.CopyComplete
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\obj\Debug\FaceBookHistroyReport.exe
+C:\Users\prompt\source\repos\FaceBookHistroyReport\FaceBookHistroyReport\obj\Debug\FaceBookHistroyReport.pdb
